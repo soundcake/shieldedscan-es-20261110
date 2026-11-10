@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<style>@font-face{font-family:JB;src:url(../fonts/JetBrainsMono-Regular.ttf)}@font-face{font-family:JB;src:url(../fonts/JetBrainsMono-Bold.ttf);font-weight:700}</style>
+<rect x="0" y="0" width="1600" height="1000" rx="0" fill="#050805" stroke="none" stroke-width="2"/>
+<text x="80" y="77.38" font-family="JB,monospace" font-size="22" font-weight="400" fill="#7fbf93">ZCASH / GUÍA VISUAL</text>
+<text x="1345" y="77.38" font-family="JB,monospace" font-size="22" font-weight="400" fill="#2bff64">04 / 04</text>
+<path d="M80,110 L1520,110" fill="none" stroke="#0f4d24" stroke-width="2"/>
+<text x="80" y="178.96" font-family="JB,monospace" font-size="24" font-weight="400" fill="#2bff64">&gt; HERRAMIENTAS PARA DESARROLLADORES</text>
+<text x="80" y="260.82" font-family="JB,monospace" font-size="58" font-weight="700" fill="#f2fff5">Consulta la API</text>
+<text x="80" y="322.54" font-family="JB,monospace" font-size="26" font-weight="400" fill="#d9ffe4">HTTP sin registro ni clave para acceder a datos públicos.</text>
+<path d="M80,895 L1520,895" fill="none" stroke="#0f4d24" stroke-width="2"/>
+<text x="80" y="945.8" font-family="JB,monospace" font-size="20" font-weight="400" fill="#7fbf93">FUENTE: shieldedscan.xyz</text>
+<text x="1100" y="945.8" font-family="JB,monospace" font-size="20" font-weight="400" fill="#7fbf93">DATOS PÚBLICOS</text>
+<rect x="80" y="410" width="1440" height="120" rx="14" fill="#0a120a" stroke="#17a344" stroke-width="2"/>
+<text x="120" y="481.44" font-family="JB,monospace" font-size="36" font-weight="700" fill="#f2fff5">https://api.shieldedscan.xyz</text>
+<rect x="80" y="580" width="700" height="90" rx="12" fill="#0a120a" stroke="#0f4d24" stroke-width="2"/>
+<text x="110" y="631.7" font-family="JB,monospace" font-size="30" font-weight="400" fill="#d9ffe4">Bloques</text>
+<rect x="820" y="580" width="700" height="90" rx="12" fill="#0a120a" stroke="#0f4d24" stroke-width="2"/>
+<text x="850" y="631.7" font-family="JB,monospace" font-size="30" font-weight="400" fill="#d9ffe4">Transacciones</text>
+<rect x="80" y="700" width="700" height="90" rx="12" fill="#0a120a" stroke="#0f4d24" stroke-width="2"/>
+<text x="110" y="751.7" font-family="JB,monospace" font-size="30" font-weight="400" fill="#d9ffe4">Búsqueda</text>
+<rect x="820" y="700" width="700" height="90" rx="12" fill="#0a120a" stroke="#0f4d24" stroke-width="2"/>
+<text x="850" y="751.7" font-family="JB,monospace" font-size="30" font-weight="400" fill="#d9ffe4">Suministro y pools</text>
+<text x="80" y="853.17" font-family="JB,monospace" font-size="23" font-weight="400" fill="#7fbf93">Consulta /api-docs: rutas, convenciones y límites.</text>
+</svg>

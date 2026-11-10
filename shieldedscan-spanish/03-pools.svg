@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<style>@font-face{font-family:JB;src:url(../fonts/JetBrainsMono-Regular.ttf)}@font-face{font-family:JB;src:url(../fonts/JetBrainsMono-Bold.ttf);font-weight:700}</style>
+<rect x="0" y="0" width="1600" height="1000" rx="0" fill="#050805" stroke="none" stroke-width="2"/>
+<text x="80" y="77.38" font-family="JB,monospace" font-size="22" font-weight="400" fill="#7fbf93">ZCASH / GUÍA VISUAL</text>
+<text x="1345" y="77.38" font-family="JB,monospace" font-size="22" font-weight="400" fill="#2bff64">03 / 04</text>
+<path d="M80,110 L1520,110" fill="none" stroke="#0f4d24" stroke-width="2"/>
+<text x="80" y="178.96" font-family="JB,monospace" font-size="24" font-weight="400" fill="#2bff64">&gt; ANALÍTICA DE POOLS</text>
+<text x="80" y="260.82" font-family="JB,monospace" font-size="58" font-weight="700" fill="#f2fff5">Entiende la distribución</text>
+<text x="80" y="322.54" font-family="JB,monospace" font-size="26" font-weight="400" fill="#d9ffe4">La vista de pools muestra cómo se distribuye ZEC en la red.</text>
+<path d="M80,895 L1520,895" fill="none" stroke="#0f4d24" stroke-width="2"/>
+<text x="80" y="945.8" font-family="JB,monospace" font-size="20" font-weight="400" fill="#7fbf93">FUENTE: shieldedscan.xyz</text>
+<text x="1100" y="945.8" font-family="JB,monospace" font-size="20" font-weight="400" fill="#7fbf93">DATOS PÚBLICOS</text>
+<rect x="80" y="430" width="450" height="210" rx="14" fill="#0a120a" stroke="#0f4d24" stroke-width="2"/>
+<text x="110" y="496.86" font-family="JB,monospace" font-size="34" font-weight="700" fill="#f2fff5">Transparent</text>
+<text x="110" y="572.38" font-family="JB,monospace" font-size="22" font-weight="400" fill="#7fbf93">POOL PÚBLICO</text>
+<rect x="575" y="430" width="450" height="210" rx="14" fill="#0a120a" stroke="#0f4d24" stroke-width="2"/>
+<text x="605" y="496.86" font-family="JB,monospace" font-size="34" font-weight="700" fill="#f2fff5">Ironwood</text>
+<text x="605" y="572.38" font-family="JB,monospace" font-size="22" font-weight="400" fill="#7fbf93">POOL BLINDADO</text>
+<rect x="1070" y="430" width="450" height="210" rx="14" fill="#0a120a" stroke="#0f4d24" stroke-width="2"/>
+<text x="1100" y="496.86" font-family="JB,monospace" font-size="34" font-weight="700" fill="#f2fff5">Sapling</text>
+<text x="1100" y="572.38" font-family="JB,monospace" font-size="22" font-weight="400" fill="#7fbf93">POOL BLINDADO</text>
+<rect x="80" y="690" width="1440" height="150" rx="14" fill="#0a120a" stroke="#17a344" stroke-width="2"/>
+<text x="115" y="745.7" font-family="JB,monospace" font-size="30" font-weight="700" fill="#2bff64">IRONWOOD: SOLO SU TOTAL ES PÚBLICO</text>
+<text x="115" y="799.75" font-family="JB,monospace" font-size="25" font-weight="400" fill="#d9ffe4">Un total agregado no revela los importes de cada operación.</text>
+</svg>
